@@ -6,10 +6,10 @@
   <a href="//www.linkedin.com/in/josana/"><img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555" alt="LinkedIn"></a>
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/STATUS-FINALIZADO-green"/>
+<img src="https://img.shields.io/badge/STATUS-APRIMORANDO-yellow"/>
 </p>
   
-> Status do Projeto: :heavy_check_mark: FINALIZADO
+> Status do Projeto: 🟡 APRIMORANDO
 
 ### Tópicos  
 
@@ -19,7 +19,9 @@
 
 :small_blue_diamond: [Como abrir e rodar o projeto localmente](#como-abrir-e-rodar-o-projeto-localmente)
 
-:small_blue_diamond: [Como funciona?](#como-funciona)
+:small_blue_diamond: [Funcionalidades da aplicação](#funcionalidades-da-aplicação)
+
+:small_blue_diamond: [Demonstração da aplicação](#demonstração-da-aplicação)
 
 :small_blue_diamond: [Tecnologias utilizadas](#tecnologias-utilizadas)
 
@@ -56,15 +58,31 @@ Após baixar o projeto, você precisa descompactar a pasta baixada em .zip por m
 
 <p align="right">(<a href="#top">Voltar para o topo</a>)</p>
 
+
+## <a name=“funcionalidades-da-aplicação”>🔨Funcionalidades da aplicação<a/> 
 <!--
-## <a name=“como-funciona”>🔨Como funciona?<a/> 
-
 Ao rodar o arquivo index.html com seu navegador de preferência, você acessará ...........
+- [x] Cadastro de cliente
+- [ ] Cadastro de produtos
 </br>
-
-<p align="right">(<a href="#top">Voltar para o topo</a>)</p>
 -->
+<p align="right">(<a href="#top">Voltar para o topo</a>)</p>
 
+  
+## <a name=“demonstração-da-aplicação”>🎬Demonstração da aplicação<a/>
+
+<p align="center">
+  <p> </p>
+  <img src="" alt="" />
+</p>
+  
+<p align="center">
+  <p> </p>
+  <img src="" alt="" />
+</p>
+  
+<p align="right">(<a href="#top">Voltar para o topo</a>)</p>
+  
 ## <a name=“tecnologias-utilizadas”>✔Tecnologias utilizadas<a/>
 ### As tecnologias utilizadas para o desenvolvimento do projeto foram:
 - ``JavaScript``
@@ -75,7 +93,6 @@ Ao rodar o arquivo index.html com seu navegador de preferência, você acessará
 </br>
 
 <p align="right">(<a href="#top">Voltar para o topo</a>)</p>
-
 
 ## <a name=“desenvolvido-por”>👩‍💻Desenvolvido por<a/>
 
