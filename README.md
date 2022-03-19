@@ -11,6 +11,7 @@
   
 > Status do Projeto: 🟡 APRIMORANDO
 
+
 ### Tópicos  
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
@@ -60,25 +61,36 @@ Após baixar o projeto, você precisa descompactar a pasta baixada em .zip por m
 
 
 ## <a name=“funcionalidades-da-aplicação”>🔨Funcionalidades da aplicação<a/> 
-<!--
-Ao rodar o arquivo index.html com seu navegador de preferência, você acessará ...........
-- [x] Cadastro de cliente
-- [ ] Cadastro de produtos
-</br>
--->
+
+Ao rodar o arquivo index.html com seu navegador de preferência, você acessará uma página contendo um formulário para cadastros de: Nome do Cliente, Nome do Produto, Código do Produto e Quantidade de Produtos. Também poderá ver quantos itens foram cadastrados e ter acesso ao estoque.
+
+### O que foi feito e próximos passos:
+- [x] Cadastro - Nome do Cliente
+- [x] Cadastro - Nome do Produto
+- [x] Cadastro - Código do Produto
+- [x] Cadastro - Quantidade de Produtos
+- [ ] Personalização da página de estoque
+- [ ] Botão limpar estoque
+- [ ] Botão na página de estoque para voltar para a tela inicial
+
 <p align="right">(<a href="#top">Voltar para o topo</a>)</p>
 
   
 ## <a name=“demonstração-da-aplicação”>🎬Demonstração da aplicação<a/>
 
-<p align="center">
-  <p> </p>
-  <img src="./assets/para-readme/cadastro-novos-clientes-e-produtos.gif" title="Cadastro de novos clientes e produtos" alt="O gif mostra a aplicação em execução, simulando o cadastro de novos clientes e produtos. O usuário insere os dados nos campos designados e depois clica no botão cadastrar. O contador do estoque é alterado conforme a inserção de novos cadastros" />
-</p>
+### Abaixo temos simulações da aplicação:
+  
+À princípio não há produtos cadastrados no estoque, então o usuário preenche os campos: Nome, Produto, Código do Produto e Quantidade de Produtos, em seguida aperta no botão cadastrar e isso fará com que o contador Itens Cadastrados, localizado no canto superior direito da tela, seja alterado.
   
 <p align="center">
-  <p> </p>
-  <img src="assets/para-readme/limpar-campos-ver-estoque.gif" title="Limpando campos e vendo estoque atualizado" alt="O gif mostra a aplicação em execução, simulando a limpeza de todos os campos preenchidos e mostra o estoque atualizado com os novos produtos." />
+  <img src="./assets/para-readme/cadastro-novos-clientes-e-produtos.gif" title="Cadastro de novos clientes e produtos" alt="O gif mostra a aplicação em execução, simulando o cadastro de novos clientes e produtos. O usuário insere os dados nos campos designados e depois clica no botão cadastrar. O contador do estoque é alterado conforme a inserção de novos cadastros" width=500 height=225 />
+</p>
+
+  
+Também há a opção de limpar todos os campos que preenchemos, caso os dados estejam errados. Depois dos cadastros, podemos clicar no botão Ver estoque para acessar a lista de Clientes, Produtos, Códigos dos Produtos e Quantidade de Produtos cadastrados.
+  
+<p align="center">
+  <img src="assets/para-readme/limpar-campos-ver-estoque.gif" title="Limpando campos e vendo estoque atualizado" alt="O gif mostra a aplicação em execução, simulando a limpeza de todos os campos preenchidos e mostra o estoque atualizado com os novos produtos" width=500 height=225 />
 </p>
   
 <p align="right">(<a href="#top">Voltar para o topo</a>)</p>
@@ -96,7 +108,16 @@ Ao rodar o arquivo index.html com seu navegador de preferência, você acessará
 
 ## <a name=“desenvolvido-por”>👩‍💻Desenvolvido por<a/>
 
-[<img src="https://avatars.githubusercontent.com/u/73187817?s=400&u=343a33ac5cbd16538d7c39b20e42764dfcf1c7e0&v=4" width=115><br><sub>Josana Klagenberg</sub>](https://github.com/Josana-Kla/)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Josana-Kla/">
+        <img src="https://avatars.githubusercontent.com/u/73187817?s=400&u=343a33ac5cbd16538d7c39b20e42764dfcf1c7e0&v=4" title="Josana Klagenberg" alt="Desenvolvido por Josana Klagenberg" width=115><br/>
+        <sub><b>Josana Klagenberg</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="right">(<a href="#top">Voltar para o topo</a>)</p>
 
