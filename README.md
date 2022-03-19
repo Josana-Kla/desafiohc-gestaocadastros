@@ -73,12 +73,12 @@ Ao rodar o arquivo index.html com seu navegador de preferência, você acessará
 
 <p align="center">
   <p> </p>
-  <img src="" alt="" />
+  <img src="./assets/para-readme/cadastro-novos-clientes-e-produtos.gif" title="Cadastro de novos clientes e produtos" alt="O gif mostra a aplicação em execução, simulando o cadastro de novos clientes e produtos. O usuário insere os dados nos campos designados e depois clica no botão cadastrar. O contador do estoque é alterado conforme a inserção de novos cadastros" />
 </p>
   
 <p align="center">
   <p> </p>
-  <img src="" alt="" />
+  <img src="assets/para-readme/limpar-campos-ver-estoque.gif" title="Limpando campos e vendo estoque atualizado" alt="O gif mostra a aplicação em execução, simulando a limpeza de todos os campos preenchidos e mostra o estoque atualizado com os novos produtos." />
 </p>
   
 <p align="right">(<a href="#top">Voltar para o topo</a>)</p>
